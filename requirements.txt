@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+numpy
+opencv-python
+mediapipe
+insightface
+onnxruntime
+mysql-connector-python
+openpyxl
+reportlab
+pydantic
